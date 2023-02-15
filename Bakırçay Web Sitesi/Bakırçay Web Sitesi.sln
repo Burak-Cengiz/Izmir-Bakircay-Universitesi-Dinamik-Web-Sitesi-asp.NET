@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bakircay.Business", "Bakircay.Business\Bakircay.Business.csproj", "{48095264-A110-491C-8189-6B8079B402D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Entity", "Bakircay.Entity\Bakircay.Entity.csproj", "{CE6FF02A-18A7-4CBF-8C24-693F7D4CCAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Dal", "Bakircay.Dal\Bakircay.Dal.csproj", "{3F13269E-323E-4853-AC3B-2D4C4FEC8A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Helper", "Bakircay.Helper\Bakircay.Helper.csproj", "{E0A303FD-9028-4BCA-837C-5A06C3A91536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Presentation", "Bakircay.Presentation\Bakircay.Presentation.csproj", "{F6A59CA9-471F-4C0E-90F3-8FEE7CBCB886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Resource", "Bakircay.Resource\Bakircay.Resource.csproj", "{D0AC5608-E2BA-49B5-8AB6-358639C07832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bakircay.Validation", "Bakircay.Validation\Bakircay.Validation.csproj", "{AD4922C7-6BBE-43B3-83BE-D81F2ADA64C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48095264-A110-491C-8189-6B8079B402D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48095264-A110-491C-8189-6B8079B402D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48095264-A110-491C-8189-6B8079B402D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48095264-A110-491C-8189-6B8079B402D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6FF02A-18A7-4CBF-8C24-693F7D4CCAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6FF02A-18A7-4CBF-8C24-693F7D4CCAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6FF02A-18A7-4CBF-8C24-693F7D4CCAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6FF02A-18A7-4CBF-8C24-693F7D4CCAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F13269E-323E-4853-AC3B-2D4C4FEC8A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F13269E-323E-4853-AC3B-2D4C4FEC8A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F13269E-323E-4853-AC3B-2D4C4FEC8A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F13269E-323E-4853-AC3B-2D4C4FEC8A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A303FD-9028-4BCA-837C-5A06C3A91536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A303FD-9028-4BCA-837C-5A06C3A91536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A303FD-9028-4BCA-837C-5A06C3A91536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A303FD-9028-4BCA-837C-5A06C3A91536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A59CA9-471F-4C0E-90F3-8FEE7CBCB886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A59CA9-471F-4C0E-90F3-8FEE7CBCB886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A59CA9-471F-4C0E-90F3-8FEE7CBCB886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A59CA9-471F-4C0E-90F3-8FEE7CBCB886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AC5608-E2BA-49B5-8AB6-358639C07832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AC5608-E2BA-49B5-8AB6-358639C07832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AC5608-E2BA-49B5-8AB6-358639C07832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AC5608-E2BA-49B5-8AB6-358639C07832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4922C7-6BBE-43B3-83BE-D81F2ADA64C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4922C7-6BBE-43B3-83BE-D81F2ADA64C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4922C7-6BBE-43B3-83BE-D81F2ADA64C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4922C7-6BBE-43B3-83BE-D81F2ADA64C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FC418C-25CB-45BD-A58D-D681043CC54B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/190601009
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Bakircay.Business\\Bakircay.Business.csproj
+		SccProjectName1 = Bakircay.Business
+		SccLocalPath1 = Bakircay.Business
+		SccProjectUniqueName2 = Bakircay.Entity\\Bakircay.Entity.csproj
+		SccProjectName2 = Bakircay.Entity
+		SccLocalPath2 = Bakircay.Entity
+		SccProjectUniqueName3 = Bakircay.Dal\\Bakircay.Dal.csproj
+		SccProjectName3 = Bakircay.Dal
+		SccLocalPath3 = Bakircay.Dal
+		SccProjectUniqueName4 = Bakircay.Helper\\Bakircay.Helper.csproj
+		SccProjectName4 = Bakircay.Helper
+		SccLocalPath4 = Bakircay.Helper
+		SccProjectUniqueName5 = Bakircay.Presentation\\Bakircay.Presentation.csproj
+		SccProjectName5 = Bakircay.Presentation
+		SccLocalPath5 = Bakircay.Presentation
+		SccProjectUniqueName6 = Bakircay.Resource\\Bakircay.Resource.csproj
+		SccProjectName6 = Bakircay.Resource
+		SccLocalPath6 = Bakircay.Resource
+		SccProjectUniqueName7 = Bakircay.Validation\\Bakircay.Validation.csproj
+		SccProjectName7 = Bakircay.Validation
+		SccLocalPath7 = Bakircay.Validation
+	EndGlobalSection
+EndGlobal

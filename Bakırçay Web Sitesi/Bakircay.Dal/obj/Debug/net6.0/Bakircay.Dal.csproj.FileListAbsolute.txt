@@ -1,0 +1,5 @@
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Dal\obj\Debug\net6.0\Bakircay.Dal.csproj.AssemblyReference.cache
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Dal\obj\Debug\net6.0\Bakircay.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Dal\obj\Debug\net6.0\Bakircay.Dal.AssemblyInfoInputs.cache
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Dal\obj\Debug\net6.0\Bakircay.Dal.AssemblyInfo.cs
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Dal\obj\Debug\net6.0\Bakircay.Dal.csproj.CoreCompileInputs.cache

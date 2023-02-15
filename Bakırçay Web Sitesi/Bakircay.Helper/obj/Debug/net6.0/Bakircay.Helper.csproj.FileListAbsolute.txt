@@ -1,0 +1,12 @@
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\bin\Debug\net6.0\Bakircay.Helper.deps.json
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\bin\Debug\net6.0\Bakircay.Helper.dll
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\bin\Debug\net6.0\Bakircay.Helper.pdb
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.csproj.AssemblyReference.cache
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.AssemblyInfoInputs.cache
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.AssemblyInfo.cs
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.csproj.CoreCompileInputs.cache
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.dll
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\refint\Bakircay.Helper.dll
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\Bakircay.Helper.pdb
+C:\TFS\Bakırçay Web Sitesi\Bakircay.Helper\obj\Debug\net6.0\ref\Bakircay.Helper.dll
